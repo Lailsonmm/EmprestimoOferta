@@ -17,4 +17,10 @@
     <ProjectReference Include="..\EmprestimoOferta.Application\EmprestimoOferta.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Middlewares\" />
+  </ItemGroup>
+
 </Project>

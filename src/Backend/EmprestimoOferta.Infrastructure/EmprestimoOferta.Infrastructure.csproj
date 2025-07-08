@@ -10,4 +10,10 @@
     <ProjectReference Include="..\EmprestimoOferta.Domain\EmprestimoOferta.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+    <Folder Include="Repositiries\" />
+    <Folder Include="Persistence\" />
+  </ItemGroup>
+
 </Project>
